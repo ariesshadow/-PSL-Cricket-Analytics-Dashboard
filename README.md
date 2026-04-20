@@ -2,7 +2,7 @@
 An interactive data analytics dashboard built with Python and Streamlit, analyzing ball-by-ball data from the Pakistan Super League (PSL) seasons 2017–2025.
 
 🚀 Live Demo
-> Coming soon — deploy link here
+> https://v74p63d6qjaffj7if9gxd5.streamlit.app/
 
 📊 Features
 
