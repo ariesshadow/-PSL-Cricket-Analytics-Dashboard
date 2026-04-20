@@ -17,7 +17,7 @@ def get_team_color(team):
     return team_colors.get(team, "#888888")
 
 # Load data
-df = pd.read_csv(r"D:\Users\DELL\Desktop\psl_data.csv.csv")
+df = pd.read_csv("psl_data.csv.csv")
 
 st.title("🏏 PSL Cricket Analytics Dashboard")
 st.markdown("Explore ball-by-ball data from PSL 2017–2025")
