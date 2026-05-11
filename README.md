@@ -74,4 +74,7 @@ streamlit run app.py
 - Venue-wise batting/bowling stats
 - Economy rate leaderboard for bowlers
 
+📌 Related Projects
+📊 PSL 2026 Auction Excel Dashboard — Excel analytics dashboard covering the complete PSL 2026 auction
+
 ⭐ If you found this useful, give it a star on GitHub!
